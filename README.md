@@ -1,9 +1,9 @@
-Name :- Sachin Prajapati
-company:- CODETECH SOLUTIONS
-ID:-CT08DS1921
-Domain:- Python Programming
-Duration:- june to july 2024
-mentor :- G.SRAVANI
+Name: Sachin Prajapati
+Company: CODETECH SOLUTIONS
+ID: CT08DS1921
+Domain: Python Programming
+Duration: June to July 2024
+Mentor: G. Sravani
 
 
 
