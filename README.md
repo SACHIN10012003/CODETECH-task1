@@ -1,3 +1,12 @@
+Name :- Sachin Prajapati
+company:- CODETECH SOLUTIONS
+ID:-CT08DS1921
+Domain:- Python Programming
+Duration:- june to july 2024
+mentor :- G.SRAVANI
+
+
+
 # CODETECH-task1
 # Calculator Application
 
