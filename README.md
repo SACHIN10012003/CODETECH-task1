@@ -1,8 +1,8 @@
-Name: Sachin Prajapati
-Company: CODETECH SOLUTIONS
-ID: CT08DS1921
-Domain: Python Programming
-Duration: June to July 2024
+Name: Sachin Prajapati,
+Company: CODETECH SOLUTIONS,
+ID: CT08DS1921,
+Domain: Python Programming,
+Duration: June to July 2024,
 Mentor: G. Sravani
 
 
@@ -27,4 +27,4 @@ This is a simple calculator application built using Python's Tkinter library. It
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/SACHIN10012003/calculator.git
+   git clone https://github.com/SACHIN10012003/calculator Task1.git
