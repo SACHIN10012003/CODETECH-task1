@@ -12,6 +12,10 @@ Mentor: G. Sravani
 
 This is a simple calculator application built using Python's Tkinter library. It provides basic arithmetic operations like addition, subtraction, multiplication, and division.
 
+![image](https://github.com/SACHIN10012003/CODETECH-task1/assets/152585031/42ac3eb8-8072-43a1-80c3-bf795325825a)
+
+
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
